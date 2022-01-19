@@ -5,3 +5,13 @@ body{
 .App{
     color: white;
 }
+
+.button{
+    background-color: darkblue;
+    color: white;
+    border-radius: 20%;
+}
+
+.button:hover{
+    cursor: pointer;
+}
