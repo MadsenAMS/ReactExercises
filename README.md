@@ -1,13 +1,27 @@
 # ReactExercises
-Repository with a few exercises to practice the implementation of the ReactJS lib. Including: 
 
-### Part I
-- Basic ReactJS configuration/setup.
+Repository with a few exercises to practice the implementation of the ReactJS lib. Including:
+
+## Part I (ReactJS Basics)
+
+Basic ReactJS configuration/setup:
+
+- `npm i --save-dev react react-dom react-scripts`
+
+Exercises:
+
 - JSX.
-- Elements.
+- Elements
 - Props
 
-### Part II (Webpack)
-- npm i -D webpack webpack-cli) &&
-- "build": "webpack --mode production") &
-- npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+## Part II (ReactJS Dynamic Components)
+
+ReactJS configuration/setup:
+
+- `npx create-react-app second-exercise`
+- `npm i` → Restores the 'node_modules' folder for ease of exporting/importing on github (.gitignore).
+
+Exercises:
+
+- Applying Bootstrap to page with ReactJS
+- Using the useState to create dynamic apps
